@@ -15,7 +15,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 I am currently pursuing a Master's degree in machine learning at POSTECH under the supervision of Professor Won Hwa Kim. My research revolves around modeling generative models using dynamical systems. Previously, I specialized in modeling marked temporal point processes using Neural ODEs. Currently, I am exploring diffusion networks for graph structures using topological data analysis.
