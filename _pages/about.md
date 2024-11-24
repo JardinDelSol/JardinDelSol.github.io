@@ -22,10 +22,11 @@ I am currently pursuing a Master's degree in machine learning at POSTECH under t
 
 ##### Research Interest
 - Time Series Analysis
+- Explainable AI
+- Medical Data Analysis
 - Generative Model
 - Graph Machine Learning
-- Dynamical System Modeling
-- Medical Data Analysis
+
 <!-- - Medical Imaging -->
 
-<a href='etc/Resume_Spring2024.pdf'>CV</a> / <a href='etc/Portfolio_Spring2024.pdf'>Portfolio</a> / <a href='https://scholar.google.com/citations?user=WA6_LkIAAAAJ'>google scholar</a> / <a href='https://www.linkedin.com/in/yujee-song/'>linkedin</a> / <a href='https://github.com/JardinDelSol'>github</a>
+<a href='etc/CV_YujeeSong.pdf'>CV</a> / <a href='etc/portfolio_YujeeSong.pdf'>Portfolio</a> / <a href='https://scholar.google.com/citations?user=WA6_LkIAAAAJ'>google scholar</a> / <a href='https://www.linkedin.com/in/yujee-song/'>linkedin</a> / <a href='https://github.com/JardinDelSol'>github</a>
